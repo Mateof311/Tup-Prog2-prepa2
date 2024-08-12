@@ -1,4 +1,8 @@
 from datos import *
+from tag import Tag
+from lista_reproduccion import ListaReproduccion
+from usuario import Usuario
+from video import Video
 
 def menu(): 
     return "\n1 - Home\n2 - Nueva Lista\n3 - Ver listas\n4 - Salir\n"

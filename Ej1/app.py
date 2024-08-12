@@ -1,4 +1,5 @@
-from datos import *
+from datos.py import *
+
 
 def menu(): 
     return "\n1 - Nueva Inscripción\n2 - Ver carreras\n3 - Ver inscripciones\n4 - Salir\n"
